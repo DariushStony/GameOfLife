@@ -2,7 +2,6 @@
 #include<time.h>
 #include<stdlib.h>
 #include<unistd.h>
-#include<conio.h>
 using namespace std;
 
 char world[100][100];
